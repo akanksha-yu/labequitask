@@ -1,0 +1,26 @@
+.body-container{
+  display:flex;
+}
+.sidenav{
+  flex: 4%;
+}
+.main-content{
+  flex:96%;
+  
+}
+.content-body{
+  display:flex;
+}
+.card{
+  flex:70%;
+z-index: 4;
+margin:10px 10px 0px 20px;
+
+background-color: white;
+}
+.list{
+  flex:30%;
+  margin:10px 20px 0px 0px;
+  height: 200px;
+ 
+}
